@@ -16,6 +16,8 @@
     height: 4%;
 }
 
-.cabecalho-lista {
+.cabecalho-lista-item {
     display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }
