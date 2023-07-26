@@ -12,6 +12,10 @@
 }
 
 .cabecalho-imagem {
-    width: 2%;
-    height: 2%;
+    width: 4%;
+    height: 4%;
+}
+
+.cabecalho-lista {
+    display: inline-block;
 }
