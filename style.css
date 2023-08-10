@@ -36,12 +36,15 @@
     padding: 24px 0;
 }
 
+.escola-div-conteudo {
+    width: 35%
+}
+
 .escola-imagem {
     width: 35%;
 }
 
-.escola {
-    padding: 150px;
-    margin: 0px;
+.escola-titulo {
+    padding: 24px 0;
 }
 
