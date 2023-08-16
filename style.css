@@ -52,6 +52,16 @@
     font-size: 16px;
 }
 
+.estudante {
+    background-color: rgb(80, 81, 82);
+}
+
+.estudante-titulo {
+    padding: 24px 0;
+    text-align: center;
+    font-size: 16px;
+}
+
 .estudante-item {
     text-align: center;
     padding: 16px 0;
@@ -60,6 +70,10 @@
 .estudante-imagem {
     width: 70px;
     padding: 4px;  
+}
+
+.estudante-texto {
+    font-size: 10px;
 }
 
 .estudante-todos {
