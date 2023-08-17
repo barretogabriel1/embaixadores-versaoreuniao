@@ -8,8 +8,13 @@
     font-size: 14px;
  }
 
- a {
-    font-style: normal;
+ a:link {
+    color:#ffffff;
+    text-decoration: none;
+ }
+
+ a:hover {
+    color: #34152d;
     text-decoration: none;
  }
 
