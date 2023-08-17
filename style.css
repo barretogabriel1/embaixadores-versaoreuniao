@@ -13,6 +13,11 @@
    text-decoration: none;
  }
 
+ a:hover {
+    color:rgb(58, 33, 53);
+    text-decoration: none;
+ }
+
 .cabecalho {
     background-color: #804674;
     color: #ffffff;
