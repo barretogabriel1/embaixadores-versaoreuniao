@@ -13,6 +13,11 @@
     text-decoration: none;
  }
 
+ a:visited {
+    color:#ffffff;
+    text-decoration: none;
+ }
+
  a:hover {
     color: #34152d;
     text-decoration: none;
