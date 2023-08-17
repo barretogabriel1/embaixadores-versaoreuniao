@@ -8,6 +8,11 @@
     font-size: 14px;
  }
 
+ a {
+   color:#ffffff;
+   text-decoration: none;
+ }
+
 .cabecalho {
     background-color: #804674;
     color: #ffffff;
